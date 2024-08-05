@@ -1,0 +1,39 @@
+1) A and B can complete a project together in 8 hours. If B can complete the project alone in 20 hours, how long would it take A to complete the project alone?
+
+2) C and D can mow a lawn together in 6 hours. If C can mow the lawn alone in 9 hours, how long would it take D to mow the lawn alone?
+
+3) E and F can paint a room together in 10 hours. If E can paint the room alone in 15 hours, how long would it take F to paint the room alone?
+
+4) G and H can build a fence together in 5 hours. If H can build the fence alone in 7 hours, how long would it take G to build the fence alone?
+
+5) I and J can assemble furniture together in 4 hours. If I can assemble the furniture alone in 8 hours, how long would it take J to assemble the furniture alone?
+
+6) K and L can complete a task together in 9 hours. If K can complete the task alone in 12 hours, how long would it take L to complete the task alone?
+
+7) M and N can solve a puzzle together in 7 hours. If M can solve the puzzle alone in 10 hours, how long would it take N to solve the puzzle alone?
+
+8) O and P can clean a house together in 11 hours. If O can clean the house alone in 13 hours, how long would it take P to clean the house alone?
+
+9) Q and R can write a report together in 15 hours. If Q can write the report alone in 20 hours, how long would it take R to write the report alone?
+
+10) S and T can cook a meal together in 6 hours. If S can cook the meal alone in 9 hours, how long would it take T to cook the meal alone?
+
+11)A and B can paint a house together in 5 hours. If A can paint the house alone in 8 hours, how long would it take B to paint the house alone?
+
+12)E and F can assemble a piece of furniture together in 3 hours. If E can do it alone in 4 hours, how long would it take F to do it alone?
+
+13)X and Y can clean a swimming pool together in 2 hours. If X can clean the pool by himself in 5 hours, how long would it take Y to clean the pool by himself?
+
+14)G can mow a lawn in 3 hours, and H can mow the same lawn in 6 hours. How long will it take them to mow the lawn if they work together?
+
+15)M and N can cook a meal together in 1.5 hours. If M can cook the meal by himself in 3 hours, how long would it take N to cook the meal alone?
+
+16)P and Q can build a wall together in 7 hours. If P can build the wall alone in 10 hours, how long would it take Q to build the wall alone?
+
+17)J can write a report in 12 hours, and K can write the same report in 15 hours. How long will it take them to write the report if they work together?
+
+18)L and M can fill a pool with water together in 8 hours. If L can fill the pool by himself in 10 hours, how long would it take M to fill the pool alone?
+
+19)O can complete a puzzle in 4 hours, while P can complete it in 6 hours. How long will it take them to complete the puzzle if they work together?
+
+20)A team of 3 workers can finish a project in 9 hours. If two of the workers can complete the project in 12 hours working together, how long would it take the third worker to complete the project alone?

@@ -1,0 +1,101 @@
+1) A and B can complete a project together in 8 hours. If B can complete the project alone in 20 hours, how long would it take A to complete the project alone?
+
+solution : calculate combined work rate of A and B : 
+
+                    =  1/8 Hours 
+
+            calculate B's work rate : 
+
+                    =   1/20  
+
+            find A's work rate : 
+
+                    A's workrate = Combined work rate - B's work rate 
+                                 = 1/8  -  1/20
+                                
+                    find least comman denominator  : 
+
+                    8 = 8 , 16 , 24 , 32 , 40 
+                    20 = 20 , 40 
+
+                    least comman denominator is : 40
+
+                                = 5/40   -  2/40
+                                = 3/40
+
+                    Work rate is : 3/40
+
+            Time :   40/3  
+
+                 : 13.33 Hours 
+
+2) C and D can mow a lawn together in 6 hours. If C can mow the lawn alone in 9 hours, how long would it take D to mow the lawn alone?
+
+solution : C and D mow a lawn together = 1/6 Hours 
+
+           C's work rate : 1/9 
+
+           combined work rate : 1/6  -  1/9
+
+           find least common denominator : 
+
+           6 : 6 , 12 , 18 ,24 , 30    =    C  :  3/18
+           9 : 9 , 18                  =    D  :  2/18
+
+            =   3/18   - 2/18
+        Ans =  1/18  
+
+        T =  18/1  
+          =  18 Hours 
+
+3) E and F can paint a room together in 10 hours. If E can paint the room alone in 15 hours, how long would it take F to paint the room alone?
+
+solution : E and F combined work : 1/10
+
+           E's  work : 1/15
+
+                    =  1/10  -  1/15
+
+            find least comman denominator : 
+
+            10 = 10 , 20 , 30 
+            15 = 15 , 30 
+
+            comman denominator is : 30
+
+                    =  3/30   -  2/30
+
+            Ans     = 1/30
+
+              
+
+            T = 30/1 
+            Ans : = 30 Hours  
+
+4) G and H can build a fence together in 5 hours. If H can build the fence alone in 7 hours, how long would it take G to build the fence alone?
+
+solution : G and H  combined work : 1/5
+
+           H  :  1/7
+
+                        =   1/5 -  1/7
+
+           find least comman denominator : 
+
+            5 = 5 , 10 , 15 , 20 ,25,30,35
+
+            7 = 7,14,21,28,35
+
+                        = 7/35    -  5/35
+
+            Ans    = 2 / 35
+
+            T =   35/2
+
+              = 17.5 Hours 
+
+              = 0.5 X 60minutes 
+
+              = 17 hours and 30 minutes 
+              
+

@@ -1,0 +1,29 @@
+1) A takes 5 hours to clean the entire house, and B takes 7 hours. If they work together, how long will it take for them to clean the house?
+
+2) C can fix a broken cabinet in 4 hours, while D can fix it in 6 hours. How long will it take them to fix the cabinet if they work together?
+
+3) G can mow a lawn in 3 hours, and H can mow the same lawn in 6 hours. How long will it take them to mow the lawn if they work together?
+
+4) J can write a report in 12 hours, and K can write the same report in 15 hours. How long will it take them to write the report if they work together?                                                                                   
+
+5) O can complete a puzzle in 4 hours, while P can complete it in 6 hours. How long will it take them to complete the puzzle if they work together?
+
+6) E can build a fence in 10 hours, while F can build it in 15 hours. How long will it take them to build the fence together? 
+
+7) A and B can paint a room in 5 hours and 8 hours, respectively. How long will it take them to paint the room together? 
+        
+8) M can write a report in 5 hours, while N can write it in 7 hours. How long will it take them to write the report together?
+
+9) I can solve a puzzle in 6 hours, while J can solve it in 9 hours. How long will it take them to solve the puzzle together?
+
+10) E can finish a task in 7 hours, and F can finish the same task in 10 hours. How long will it take them to finish the task together?
+
+11) S can edit a video in 9 hours, while T can edit it in 12 hours. How long will it take them to edit the video together?
+
+12) Q can wash dishes in 10 hours, and R can wash them in 15 hours. How long will it take them to wash the dishes together?
+
+13) O can build a model in 4 hours, and P can build it in 6 hours. How long will it take them to build the model together?
+
+14) K can assemble furniture in 8 hours, and L can do it in 12 hours. How long will it take them to assemble the furniture together?
+
+

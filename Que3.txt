@@ -1,0 +1,3 @@
+1) Worker A completes a task in 8 days and worker B completes the same task in 10 days. If both A and B work together, in how many days they will complete the task?
+
+2) 
