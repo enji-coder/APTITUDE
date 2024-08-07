@@ -40,5 +40,4 @@ Mixed Fraction : 1----
                ans = -----
                       8
             
-
-                
+4)              

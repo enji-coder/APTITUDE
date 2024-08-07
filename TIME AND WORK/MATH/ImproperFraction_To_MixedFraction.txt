@@ -1,0 +1,6 @@
+1) convert the improper fraction into mixed fraction : 
+                48
+->  solution : -----
+                5
+
+            step 1 : devide (45 numerator)    
