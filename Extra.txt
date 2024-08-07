@@ -1,0 +1,12 @@
+Convert The improper fraction : 48/5 into mixed number : 9:3/5  
+
+    -> step 1 : Divide the numerator by denominator 
+              : Divide (48) numerator by (5) denominator
+              : 48 % 5
+
+              This means that 48 divided by 5 gives a quotient of 9 and a remainder of 3.
+
+              so,       3
+                     9 --- 
+                        5  
+

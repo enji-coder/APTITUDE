@@ -1,0 +1,45 @@
+1) A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:
+
+solution : A work rate : 1/16
+           B work rate : 1/12
+
+           calculate the combined job of A and B : 1/16 + 1/12
+
+           find least common denominator 
+
+           (16 = 16,32,48)
+           (12 = 12,24,36,48)
+
+                        = 3/48  + 4/48
+
+                        = 7/48  (commbined work rate of A and B)
+
+            Now, determine the combined rate of A ,B and C : 
+
+                        A , B and C complete job in 4 days so, 
+
+                        = 1/4
+
+                    C = 7/48  + 1/C
+
+                this, rate equals 1/4, so,
+
+                        = 7/48 + 1/C  = 1/4
+
+            Solve C's work rate : 
+
+                        1/C = 1/4  - 7/48
+                        
+            find least common denominator : 
+                    (4 : 4,8,12,16,20,24,28,32,36,40,44,48)  
+                    (48 : 48)
+
+                        = 12/48  - 7/48
+
+                        = 5/48
+
+                        = 48/5 
+
+                Ans     = 9.6 days 
+
+

@@ -1,0 +1,83 @@
+1) Worker A completes a task in 8 days and worker B completes the same task in 10 days. If both A and B work together, in how many days they will complete the task?
+
+solution :   A : 1/8
+             B : 1/10
+
+             find least comman denominator : 
+
+             8 = 8,16,24,32,40
+             10 = 10,20,30,40,
+
+             A = 5/40
+             B = 4/40
+
+             =   5/40  + 4/40
+
+             = 9/40
+
+             = 40/9 Days 
+
+2) Vikas and Mohan working together can complete a work in 6 days. If Vikas alone completes the same work in 10 days, in how many days Mohan alone can complete the same work?
+
+solution :  Vikas and Mohan work : 1/6
+
+            Vikas work : 1/10
+
+            find least comman denominator : 1/6  - 1/10
+
+            6 = 6,12,18,24,30
+            10 = 10,20,30
+
+            =  5/30  - 3/30
+            =  2/30
+            = 1/15
+
+            Ans : 15/1 
+
+                : 15 days mohan can complete the same work 
+
+                
+3) Anu and Priya working together can complete a project in 8 days. If Anu alone can complete the project in 12 days, in how many days can Priya alone complete the project?
+
+solution : Anu and Priya Work : 1/8 
+
+           Anu's work : 1/12 
+
+           Priya's work = Anu and priya work  -  Anu's work 
+
+                        = 1/8   -  1/12
+
+                        find least common denominator
+
+                        (8 = 8,16,24)   =  3/24
+                        (12 = 12,24)    =  2/24
+
+                        =  3/24  -  2/24
+                        =  1/24
+
+                Ans = 24/1
+                    = 24 days for priya 
+
+4) Raj and Simran together can finish painting a house in 9 days. If Raj can paint the house alone in 15 days, how many days will Simran take to paint the house alone?
+
+solution = Raj and Simran : 1/9  
+
+           Raj's work :     1/15
+
+           simaran =  combined work - raj's work 
+                   =   1/9 - 1/15
+
+                   find least common denominator 
+
+                   (9 = 9,18,27,36,45)  = 5/45
+                   (15 = 15,30,45)  = 3/45
+
+                   = 5/45 -  3/45
+                   = 2/45
+
+            Ans    = 45/2
+
+            Days   = 22.5  days 
+
+            
+

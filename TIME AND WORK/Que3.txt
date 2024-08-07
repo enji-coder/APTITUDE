@@ -1,0 +1,23 @@
+1) Worker A completes a task in 8 days and worker B completes the same task in 10 days. If both A and B work together, in how many days they will complete the task?
+
+2) Vikas and Mohan working together can complete a work in 6 days. If Vikas alone completes the same work in 10 days, in how many days Mohan alone can complete the same work?
+
+3) Anu and Priya working together can complete a project in 8 days. If Anu alone can complete the project in 12 days, in how many days can Priya alone complete the project?
+
+4)  Raj and Simran together can finish painting a house in 9 days. If Raj can paint the house alone in 15 days, how many days will Simran take to paint the house alone?
+
+5) Two workers, Ravi and Sita, can complete a task together in 5 days. If Ravi can complete the task alone in 8 days, how many days will Sita take to complete the task alone?
+
+6) A gardener and a landscaper can together plant a garden in 7 days. If the gardener alone can plant the garden in 10 days, how long will it take the landscaper to plant the garden alone?
+
+7) Kiran and Meera working together can assemble a set of furniture in 4 days. If Kiran alone can assemble the furniture in 6 days, how many days will Meera alone take to assemble the furniture?
+
+8) Aman and Priya working together can complete a task in 10 days. If Aman alone can complete the task in 15 days, how many days will Priya alone take to complete the task?
+
+9) Ravi and Simran can together finish a job in 5 days. If Ravi alone can finish the job in 8 days, how many days will Simran alone take to finish the job?
+
+10) Arun and Neha together can finish a project in 6 days. If Arun alone can finish the project in 9 days, how many days will Neha alone take to finish the project?
+
+11) A painter and a decorator working together can complete painting a house in 7 days. If the painter alone can complete the work in 10 days, how long will the decorator take to complete the work alone?
+
+12) Two workers, Raj and Tara, can complete a task together in 8 days. If Raj can complete the task alone in 12 days, how many days will Tara take to complete the task alone?

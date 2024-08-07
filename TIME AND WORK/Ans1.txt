@@ -50,7 +50,25 @@ solution =  C work rate : 1/4
 
 3) G can mow a lawn in 3 hours, and H can mow the same lawn in 6 hours. How long will it take them to mow the lawn if they work together?
 
-Ans : 2 Hours 
+solution = C mow hours : 1/3  
+           H mow hours : 1/6 
+
+           find commbined work together 
+
+           find least common denominator : 
+
+           3 = 3,6,9,12
+           6 = 6,12 
+
+           common denominator is 6
+
+           =  2/6  + 1/6
+           =  3/6
+           =  1/2
+
+           Ans = 2/1 
+               = 2 hours 
+
 
 4) J can write a report in 12 hours, and K can write the same report in 15 hours. How long will it take them to write the report if they work together?                                                                                   
 
