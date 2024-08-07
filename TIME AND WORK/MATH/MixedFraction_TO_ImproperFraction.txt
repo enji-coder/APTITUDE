@@ -1,0 +1,44 @@
+1) convert Mixed fraction to improper Fraction :
+
+                    3
+Mixed Fraction :  2----
+                    4
+
+
+            step 1 : whole number : 2 
+                     fraction  3/4 
+                     multiply whole number with denominator  =  2 (whole number) X 4 (denominator)
+                                                             =  8
+
+            step 2 : add the numberator  = 8 + 3  
+                                         = 11
+
+                            ANS : 11        
+                                 -----
+                                   4
+                        
+
+2) convert Mixed fraction to improper Fraction :
+                   2
+Mixed Fraction : 5----
+                   7
+
+               step 1 : 5 X 7  = 35
+               step 2 : 35 + 2 = 37
+                      37
+               ans = -----
+                      7
+            
+3) convert Mixed fraction to improper Fraction :
+                   5
+Mixed Fraction : 1----
+                   8
+
+               step 1 : 1 X 8  = 8
+               step 2 : 8 + 5 = 13
+                      13
+               ans = -----
+                      8
+            
+
+                
