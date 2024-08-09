@@ -1,0 +1,34 @@
+1) A and B are brothers , C and D are sisters , A's son is D's brother. How is B related to C ? 
+
+==>  Solution :         (A) - (B)            {C}-{D}
+                         |
+                         V
+                        ( ) ----------------------- brother of D 
+
+                        B is a uncle of C 
+
+                    
+2) P is the mother of Q. Q is the father of R. R is the daughter of S. How is P related to S?
+
+==>  Solution  :         {P}
+                          |
+                          V
+
+                        (Q) ~  {S}
+                         |      |
+                         V      V
+                         --------
+                            {R}
+
+            P is a mother-in-law of S 
+
+3) A is the father of B and C. B is the mother of D. C is the grandfather of D. How is A related to D
+
+4) M is the sister of N. N is the father of O. O is the grandfather of P. How is M related to P?
+
+
+
+
+
+
+
